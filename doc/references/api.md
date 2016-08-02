@@ -75,5 +75,5 @@ Get the current global environment variables and configuration information.
 
 ## $call(module, method, ...args)
 
-**Deprecated**, please use `require('@weex-module/module')[method](...args)` instead. See [modules](../modules/REAME.md) for more information
+**Deprecated**, please use `require('@weex-module/module')[method](...args)` instead. See [modules](../modules/) for more information
 
